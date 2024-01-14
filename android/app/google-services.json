@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848978961389",
+    "project_id": "wheel-we-meet-dev",
+    "storage_bucket": "wheel-we-meet-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848978961389:android:e1de3ae77be4bb52e8fde4",
+        "android_client_info": {
+          "package_name": "com.lpendeavors.wheel_we_meet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH6U3BMPG6mLJirX_-J2vweaBrktuPh8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
